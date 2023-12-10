@@ -43,14 +43,14 @@
 <body>
 
     <header>
-        <h1>Your Name</h1>
+        <h1>Yashasvi</h1>
         <p>Web Developer | Designer</p>
     </header>
 
     <section id="about">
         <h2>About Me</h2>
         <p>
-            Welcome to my portfolio! I am a passionate web developer and designer with a focus on creating user-friendly and visually appealing websites. I love turning ideas into reality through code and design.
+            My name is Yashasvi. I am a student of Btech CSE 2nd year. I am a fitness enhtusiast and  a dendrophile. Love to expore around.
         </p>
     </section>
 
@@ -74,7 +74,7 @@
     <section id="contact">
         <h2>Contact Me</h2>
         <p>Feel free to contact me for collaboration or if you have any questions.</p>
-        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>Email: <a href="mailto:your.email@example.com">attryyashasvi@gmail.com</a></p>
     </section>
 
     <footer>
